@@ -26,3 +26,5 @@ obj
 *.nuget.props
 *.nuget.targets
 .vs
+KXStarterApp/AppConstants.cs
+KXStarterApp/AppConstants.cs
